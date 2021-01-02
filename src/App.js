@@ -7,11 +7,6 @@ import StockEventsTable from './components/StockEventsTable'
 import AddStockEvent from './components/AddStockEvent'
 import AddProduct from './components/AddProduct'
 import Nav from './components/Nav'
-// Fetch all stock events
-
-// Separate stock events by products
-
-// Display all stock events
 
 class App extends React.Component {
   state = {
